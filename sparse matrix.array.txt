@@ -1,7 +1,4 @@
- C++ program for Sparse Matrix Representation
- using Array
-
-#include <iostream>
+ #include <iostream>
 using namespace std;
 
 int main()
